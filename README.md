@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://tipsterscript.com" target="_blank">
-    <img src="https://tipsterscript.com/wp-content/uploads/2023/05/ts_logo_black_site.jpg" width="200" alt="TipsterScript Logo">
-  </a>
-</p>
-
 <h1 align="center">TipsterScript – WordPress Plugin for Tipsters & Sports Betting Sites</h1>
 
 <p align="center">
